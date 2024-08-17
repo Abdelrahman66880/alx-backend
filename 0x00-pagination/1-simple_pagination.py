@@ -1,4 +1,6 @@
- function named index_range that takes two integer
+#!/usr/bin/env python3
+"""
+function named index_range that takes two integer
 arguments page and page_size.
 
 The function should return a tuple of size two containing a
