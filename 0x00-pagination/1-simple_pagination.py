@@ -62,3 +62,4 @@ class Server:
             return data[start:end]
         except IndexError:
             return []
+
